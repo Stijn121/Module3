@@ -63,3 +63,24 @@ body {
 }
 /* END HEADER */
 
+.box {
+    width: 100%;
+    overflow: none;
+}
+
+.inhoud {
+    border: 6px solid black;
+    width: 90%;
+    height: 200px;
+    margin: 2.5%;
+    color: black;
+    font-size: 25px;
+    padding: 2%;
+    padding-top: 55px;
+    background-color: gray;
+}
+#1 {
+    float: left;
+    border: 1px solid black;
+    width: 100%;
+}
