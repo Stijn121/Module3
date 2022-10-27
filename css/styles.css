@@ -6,10 +6,9 @@ body {
   font-size: 16px;
   color: black;
   background-color: lightseagreen;
-  font-family: 'Oxygen', sans-serif;
 }
 #header-nav {
-  background-color: white;
+  background-color: lightyellow;
   border-radius: 0;
   border: 0;
 }
@@ -34,9 +33,6 @@ body {
 #nav-list a {
   color: black;
   text-align: center;
-}
-#nav-list a:hover {
-  background: #E7E7E7;
 }
 #nav-list a span {
   font-size: 1.8em;
@@ -72,7 +68,6 @@ p {
     height: 150px;
     margin-right: auto;
     margin-left: auto;
-    font-family: Helvetica;
     color: black;
 }
 h2 {
