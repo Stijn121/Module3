@@ -1,3 +1,7 @@
+﻿﻿* {
+    box-sizing: border-box;
+}
+
 body {
   font-size: 16px;
   color: #fff;
@@ -79,7 +83,7 @@ body {
     padding-top: 55px;
     background-color: gray;
 }
-#1 {
+.col-md-2 {
     float: left;
     border: 1px solid black;
     width: 100%;
