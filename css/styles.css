@@ -4,7 +4,7 @@
 
 body {
   font-size: 16px;
-  color: #fff;
+  color: black;
   background-color: lightseagreen;
   font-family: 'Oxygen', sans-serif;
 }
@@ -22,9 +22,6 @@ body {
   color: black;
   margin-top: 0;
   margin-bottom: 0;
-}
-.navbar-brand a:hover, .navbar-brand a:focus {
-  text-decoration: none;
 }
 .navbar-brand p { 
   text-transform: uppercase;
@@ -45,20 +42,15 @@ body {
   font-size: 1.8em;
 }
 
-.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
-  border: 1px solid #61122f;
-}
 .navbar-header button.navbar-toggle {
   clear: both;
   margin-top: -30px;
 }
-/* END HEADER */
 
 .box {
     width: 100%;
     overflow: none;
 }
-
 .inhoud {
     border: 6px solid black;
     width: 90%;
